@@ -1,0 +1,16 @@
+*.tr
+slk_frak.freq-dawg
+slk_frak.inttemp
+slk_frak.normproto
+slk_frak.number-dawg
+slk_frak.pffmtable
+slk_frak.punc-dawg
+slk_frak.unicharset
+slk_frak.word-dawg
+*.txt
+Microfeat
+unicharset
+*~
+shapetable
+slk_frak.shapetable
+unicharset.edited
